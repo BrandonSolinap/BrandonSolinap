@@ -1,16 +1,16 @@
-## Hi there 👋
+About Me
 
-<!--
-**BrandonSolinap/BrandonSolinap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student with an Associate’s in Computer Information Systems and currently working toward my B.S. in Computer Science at the University of Iowa. My interests include software engineering, cybersecurity, backend and frontend development. I enjoy building projects in Java, Python, and C++.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Java, Python, C++, JavaScript
+
+Areas of Interest: Software Engineering, Cybersecurity, Full-Stack Development
+
+Currently Learning: Web Development (React, Node.js), Cybersecurity Fundamentals, Advanced Java Programming
+
+Contact
+LinkedIn: wwww.linkedin.com/in/brandon-solinap
+
+Email: Brandonsolinap0@gmail.com
